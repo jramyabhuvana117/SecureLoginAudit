@@ -1,7 +1,7 @@
 # 🔐 SecureLoginAudit
 
-**CodeAlpha Cybersecurity Internship — Task 1**
-**Intern:** Ramya J | Anand Institute of Higher Technology
+**CodeAlpha Cybersecurity Internship — Task 3**
+**Intern:** Ramya Bhuvaneshwari J | Anand Institute of Higher Technology
 
 ---
 
